@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://223.72.165.26:8099/client/ipa/1582956368747_1/MythWars_outerTest_2.0.1.1_2020-02-29-14-00-24_dev.ipa</string>
+					<string>http://192.168.1.34:8099/client/ipa/1583934934694_1/MythWars_outer_2.0.1.11_2020-03-11-21-49-13_dev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://223.72.165.26:8099/client/ios/icon.png</string>
+					<string>http://192.168.1.34:8099/client/ios/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://223.72.165.26:8099/client/ios/icon.png</string>
+					<string>http://192.168.1.34:8099/client/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
